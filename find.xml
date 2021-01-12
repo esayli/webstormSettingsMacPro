@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="shared" />
     <option name="defaultScopeName" value="shared" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="shared" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
@@ -10,10 +12,10 @@
     <mask>*.ng</mask>
     <mask>*.htm</mask>
     <mask>*.sht</mask>
-    <mask>*.html</mask>
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
