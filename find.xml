@@ -3,6 +3,7 @@
     <option name="customScope" value="shared" />
     <option name="defaultScopeName" value="shared" />
     <option name="SEARCH_SCOPE" value="shared" />
+    <option name="FILE_MASK" value="*.spec.ts" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -15,5 +16,6 @@
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
+    <mask>*.spec.ts</mask>
   </component>
 </application>
