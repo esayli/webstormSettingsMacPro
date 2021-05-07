@@ -6,6 +6,7 @@
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
@@ -26,6 +27,6 @@
     <option name="accentColor" value="7e57c2" />
     <option name="selectedTheme" value="NIGHT_OWL" />
     <option name="userId" value="350c5399:173b23f4fdf:-8000" />
-    <option name="version" value="6.3.3" />
+    <option name="version" value="6.4.1" />
   </component>
 </application>
