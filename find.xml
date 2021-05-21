@@ -17,7 +17,7 @@
     <mask>*.ts</mask>
     <mask>*.ts, *.js</mask>
     <mask>*.html</mask>
-    <mask>*.ts, !*.spec.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.ts, !*.spec.ts</mask>
   </component>
 </application>
