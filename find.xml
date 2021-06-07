@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="gcloud" />
+    <option name="defaultScopeName" value="gcloud" />
+    <option name="SEARCH_SCOPE" value="gcloud" />
+    <option name="FILE_MASK" value="*.ts, !*.spec.ts" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
