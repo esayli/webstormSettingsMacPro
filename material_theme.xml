@@ -9,7 +9,6 @@
     <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -24,8 +23,8 @@
     <option name="tabFontSize" value="18" />
     <option name="highlightThickness" value="1" />
     <option name="tabsHeight" value="23" />
-    <option name="accentColor" value="3068d0" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="accentColor" value="7e57c2" />
+    <option name="selectedTheme" value="NIGHT_OWL" />
     <option name="userId" value="350c5399:173b23f4fdf:-8000" />
     <option name="version" value="6.7.2" />
   </component>
