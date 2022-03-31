@@ -18,8 +18,8 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.ts, !*.spec.ts, *.js, !*.d.ts</mask>
     <mask>*.html</mask>
     <mask>*.spec.ts</mask>
+    <mask>*.ts, !*.spec.ts, *.js, !*.d.ts</mask>
   </component>
 </application>
