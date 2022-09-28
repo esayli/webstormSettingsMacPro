@@ -22,6 +22,9 @@
     <entry key="js.debugger.webconsole" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="697098" />
+    <entry key="editor.focus.mode.color.dark" value="697098" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
