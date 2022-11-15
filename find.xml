@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="shared" />
-    <option name="defaultScopeName" value="shared" />
-    <option name="SEARCH_SCOPE" value="shared" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.ts, *.js</mask>
     <mask>*.ts, !*.spec.ts</mask>
     <mask>*.ts, !*.spec.ts, *.js</mask>
