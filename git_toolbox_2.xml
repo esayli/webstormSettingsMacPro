@@ -1,7 +1,8 @@
 <application>
   <component name="GitToolBoxAppSettings2">
     <option name="previousVersionMigrated" value="true" />
+    <option name="startupNotificationVersion" value="1" />
     <option name="updateProjectActionId" value="gitextender.update.project.action" />
-    <option name="version" value="5" />
+    <option name="version" value="6" />
   </component>
 </application>
